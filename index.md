@@ -14,12 +14,15 @@ I hold Ph.D. and Master's degrees in Electrical Engineering and Computer Science
 
 ## Publications
 
+[Google Scholar](https://scholar.google.com/citations?user=7gd0hJYAAAAJ&hl=en)
+
 **Journal Articles**
 * M. R. Walter¹, S. Hemachandra¹, B. Homberg, S. Tellex, and S. Teller, "A framework for learning semantic maps from grounded natural language descriptions," International Journal of Robotics Research, 2014
 * T. Kollar, S. Tellex, M. R. Walter, A. Huang, A. Bachrach, S. Hemachandra, E. Brunskill, A. Banerjee, D. Roy, S. Teller, and N. Roy, "Generalized grounding graphs: A probabilistic framework for understanding grounded language," Journal of Artificial Intelligence Research, 2013
 * F. Doshi-Velez, W. Li, Y. Battat, B. Charrow, D. Curthis, J. Park, S. Hemachandra, J. Velez, C. Walsh, D. Fredette, B. Reimer, N. Roy, and S. Teller, "Improving safety and operational efficiency in residential care settings with wifi-based localization," Journal of the American Medical Directors Association, vol. 13, July 2012.
 
 **Recent Conference Publications**
+* S. Hemachandra and M. Walter, "Information-theoretic dialog to improve spatial-semantic representations" in Proc. IEEE/RSJ Int'l Conf. on Intelligent Robots and Systems (IROS), 2015.
 * S. Hemachandra¹, F. Duvallet¹, T. Howard, N. Roy, A. Stentz, and M. Walter, "Learning models for following natural language directions in unknown environments," in Proc. IEEE Int'l Conf. on Robotics and Automation (ICRA), 2015.
 * F. Duvallet¹, M. Walter¹, T. Howard¹, S. Hemachandra¹, J. Oh, S. Teller, N. Roy, and A. Stentz, "Inferring maps and behaviors from natural language instructions," in Proc. Int'l. Symp. on Experimental Robotics (ISER), 2014.
 * S. Hemachandra, M. R. Walter, S. Tellex, and S. Teller, "Learning spatial-semantic representations from natural language descriptions and scene classification," in Proc. IEEE Int'l Conf. on Robotics and Automation (ICRA), 2014.
@@ -27,5 +30,15 @@ I hold Ph.D. and Master's degrees in Electrical Engineering and Computer Science
 * S. Hemachandra, T. Kollar, N. Roy, and S. Teller, "Following and interpreting narrated guided tours," in Proc. IEEE Int'l Conf. on Robotics and Automation (ICRA), 2011, pp. 2574-2579.
 
 *¹ Equally contributing authors*
+
+## Patents: 
+* Granted Patent (11315260 and 11830203) - Geo-motion and appearance aware data association 
+* Granted Patent 12230035 - Systems and methods for detecting a reflection artifact in a point cloud
+* Pending Pending Pub. No: 20210124351 - Onboard cluster tracking system
+* Pending Pending Pub. No: 20240391487 - Using sliced data to evaluate machine learning models used for autonomous vehicle operation
+* Pending Pending Pub. No: 20240286635 - Systems and techniques for classification of signs and gestures of traffic controllers
+* Pending Pending Pub. No: 20240400108 - Perception and understanding of vulnerable road users
+* Pending Pending Pub. No: 20240400109  Perception and understanding of Vehicles
+
 
 ---
