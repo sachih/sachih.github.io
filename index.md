@@ -1,4 +1,4 @@
-# Sachithra M. Hemachandra [LinkedIn](https://www.linkedin.com/in/sachih/)
+# Sachithra Hemachandra [LinkedIn](https://www.linkedin.com/in/sachih/)
 
 ![](profile.jpg)
 
