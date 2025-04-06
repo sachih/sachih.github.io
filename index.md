@@ -1,8 +1,10 @@
 ![](profile.jpg)
 
-## About Me [LinkedIn](https://www.linkedin.com/in/sachih/)
+## About Me
 
 Solving complex perception problems in robotics and autonomous driving is my passion. Over the years, I've had the privilege of contributing to groundbreaking work at leading companies like Cruise, Toyota Research Institute, Waymo, and Google Robotics. From hands-on development of SLAM and tracking algorithms to leading teams responsible for critical systems like traffic light detection and multi-object understanding, my journey has focused on leveraging machine learning to make autonomous systems safer and more reliable.
+
+[LinkedIn](https://www.linkedin.com/in/sachih/)
 
 ## Education
 
