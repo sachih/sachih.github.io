@@ -1,6 +1,6 @@
 # Sachithra M. Hemachandra [LinkedIn](https://www.linkedin.com/in/sachih/)
 
-![](DSC_0318.jpg)
+![](profile.jpg)
 
 ## About Me
 
