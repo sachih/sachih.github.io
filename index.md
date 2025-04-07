@@ -15,6 +15,11 @@ Solving complex perception problems in robotics and autonomous driving is my pas
 * In 2014 I interened at Bosch Personal Robotics Group working on indoor mapping, localization and navigation solutions.
 
 ## Research Highlights
+Intelligent Wheelchair project demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YkFm5cwUT3s?si=7lDo3UpwoiMFmPkn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 * Semantic Mapping with Natural Language (2011–2015)
 Developed a framework for robots to build rich environmental models by integrating natural language descriptions with sensor data from LiDAR and cameras.
 * Inferring Maps and Behaviors from Natural Language (2014–2015)
